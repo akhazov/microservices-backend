@@ -21,3 +21,30 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+Будет удалено .idea/.gitignore
+Будет удалено .idea/checkstyle-idea.xml
+Будет удалено .idea/compiler.xml
+Будет удалено .idea/encodings.xml
+Будет удалено .idea/jarRepositories.xml
+Будет удалено .idea/libraries/
+Будет удалено .idea/microservices-backend.iml
+Будет удалено .idea/misc.xml
+Будет удалено .idea/modules.xml
+Будет удалено .idea/sonarlint/
+Будет удалено .idea/vcs.xml
+Будет удалено mvnw
+Будет удалено mvnw.cmd
+Будет удалено pom.xml
+Будет удалено src/
+/.idea/
+Будет удалено target/backend-0.0.1-SNAPSHOT.jar.original
+Будет удалено target/classes/application.properties
+Будет удалено target/generated-sources/
+Будет удалено target/generated-test-sources/
+Будет удалено target/maven-archiver/
+Будет удалено target/maven-status/
+Будет удалено target/surefire-reports/
+/target/
+Будет удалено src/main/resources/static/
+Будет удалено src/main/resources/templates/
+Будет удалено src/test/java/com/sermicro/backend/BackendApplicationTests.java
